@@ -1,2 +1,2 @@
-# Hello_word
-练习项目
+# Hello_world
+简单的练习一下
